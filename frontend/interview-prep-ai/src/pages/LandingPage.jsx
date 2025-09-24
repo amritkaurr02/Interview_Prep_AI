@@ -99,7 +99,7 @@ const LandingPage = () => {
       </div>
 
       <div className="w-full min-h-full bg-[#FFFCEF] mt-10">
-        <div className="container mx-auto px-4 pt10 pb-20">
+        <div className="container mx-auto px-4 pt-10 pb-20">
           <section className="mt-5">
             <h2 className="text-2xl font-medium text-center pb-12">
               Features That Make You Shine

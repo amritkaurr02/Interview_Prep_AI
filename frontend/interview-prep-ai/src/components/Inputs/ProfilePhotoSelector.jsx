@@ -69,4 +69,4 @@ const ProfilePhotoSelector =({ image, setImage, preview, setPreview})=>{
         </div>
     )
 };
-export default ProfilePhotoSelector
+export default ProfilePhotoSelector;

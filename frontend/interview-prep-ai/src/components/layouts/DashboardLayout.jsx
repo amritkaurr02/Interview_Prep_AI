@@ -11,4 +11,4 @@ const DashboardLayout=({children})=>{
             </div>
     )
 }
-export default DashboardLayout
+export default DashboardLayout;

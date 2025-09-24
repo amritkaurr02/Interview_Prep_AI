@@ -47,4 +47,4 @@ const Input = ({
             </div>
         </div>
 )};
-export default Input
+export default Input;
